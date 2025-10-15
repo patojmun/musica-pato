@@ -1,0 +1,5 @@
+# Reaper indexes and peaks
+*.reapindex
+*.reapeaks
+reaper/Backups
+.DS_Store
