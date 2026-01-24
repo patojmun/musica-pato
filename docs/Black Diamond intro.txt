@@ -1,0 +1,27 @@
+MD: C# G# F# G# E  G# D# G# 
+MI: C#
+
+MD: C# G# F# G# E  G# D# G# 
+MD:                   B  
+
+
+
+MD: C# A  G# A  F# A  E  A
+MI: A
+
+MD: D# A  G# A  F# A  E  A
+MI: --
+
+
+
+MD: D# F# E  F# D# F# C# F#
+MI: B
+
+MD: B  F# E  F# D# E  F# A
+
+
+
+MD: G# G# F# G# E  G# D# G#
+MI: C#
+
+MD: C# G# F# G# E  G# D# G#
